@@ -6,5 +6,5 @@ n2 = int(input())
 n3 = int(input())
 n4 = int(input())
 media = (n1+n2+n3+n4)/4
-print('A media aritimetca das 4 notas é:', media)
+print('A media aritmetica das 4 notas é:', media)
 

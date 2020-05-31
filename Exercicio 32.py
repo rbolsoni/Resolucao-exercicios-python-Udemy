@@ -1,10 +1,10 @@
 # Exercicio 32 - soma do sucessor e triplo do antecessor
 
-n = int(input('Digite um numero:'))
-s = n+1
-ss = s+s
-a = n-1
-ta = a*3
-print('A soma do sucessor é:', ss)
-print('O triplo dos antecessor é:', ta)
+num = int(input('Digite um numero:'))
+suc = num + 1
+soma_suc = suc + suc
+ant = num - 1
+triplo_ant = ant * 3
+print('A soma do sucessor é:', soma_suc)
+print('O triplo dos antecessor é:', triplo_ant)
 

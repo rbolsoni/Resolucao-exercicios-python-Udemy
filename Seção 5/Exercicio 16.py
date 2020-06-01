@@ -26,5 +26,4 @@ elif num == 11:
 elif num == 12:
     print('Dezembro')
 else:
-    num > 12
     print('Numero Invalido!')

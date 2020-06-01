@@ -1,4 +1,4 @@
-# Exercicio 15 - unsado switch para o dia da semana
+# Exercicio 15 - usando switch para o dia da semana
 
 num = int(input('Digite um numero para saber o dia da semana:'))
 if num == 1:
@@ -16,5 +16,4 @@ elif num == 6:
 elif num == 7:
     print('Sabado')
 else:
-    num > 7
-    print('Numero Invalido!')
+    print('Numero Invalido! Digite um numero de 1 a 7.')
